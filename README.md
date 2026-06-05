@@ -62,5 +62,5 @@ The raw data can be seen in the 'coviddeaths' and 'covidvaccinations' CSV files.
 Author:
 Jett Guitteau
   
-Data Science Student
+Data Science Student | 
 Feel free to connect on LinkedIn: https://www.linkedin.com/in/jettguitteau/
