@@ -45,6 +45,7 @@ Key Takeaways
 
 
 SQL Views Used
+
 This project used SQL views to prepare datasets optimized for Tableau visualization. These include:
 - Global case fatality rates over time
 - Total vaccines administered globally
